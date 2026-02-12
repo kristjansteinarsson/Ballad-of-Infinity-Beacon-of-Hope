@@ -4197,3 +4197,74 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.12-20.10.03:295][786]LogStreaming: Display: FlushAsyncLoading(1300): 1 QueuedPackages, 0 AsyncPackages
 [2026.02.12-20.10.03:298][787]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
 [2026.02.12-20.10.03:298][787]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.12-20.10.03:625][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_23.Tile_23 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:626][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_24.Tile_24 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:626][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_25.Tile_25 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:627][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_26.Tile_26 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:627][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_27.Tile_27 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:628][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_28.Tile_28 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:629][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_29.Tile_29 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:629][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_32.Tile_32 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:630][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_33.Tile_33 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:630][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_34.Tile_34 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:631][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_37.Tile_37 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.040326 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:631][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_38.Tile_38 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.029105 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:631][787]LogTexture: Display: Creación de texturas: /Game/Spaceship/Content/Craftpix/5_GUI/Interface/Tile_39.Tile_39 (TFO_AutoDXT, 16X16 X1X1X1) (Memoria requerida aproximada: 1.040326 MB), EncodeSpeed: Fast
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_23.png]
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: [Pendiente] Importando -  (218)
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: [Pendiente] Importando -  (218)
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_40.png]
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_24.png]
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: [Pendiente] Importando -  (217)
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: [Pendiente] Importando -  (217)
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_41.png]
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_25.png]
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: [Pendiente] Importando -  (216)
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: [Pendiente] Importando -  (216)
+[2026.02.12-20.10.03:961][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_42.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_26.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (215)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (215)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_43.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_27.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (214)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (214)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_44.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_28.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (213)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (213)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_45.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_29.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (212)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (212)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_46.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_32.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (211)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (211)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_47.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_33.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (210)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (210)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_48.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_34.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (209)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (209)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_49.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_37.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (208)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: [Pendiente] Importando -  (208)
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_50.png]
+[2026.02.12-20.10.03:962][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_38.png]
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: [Pendiente] Importando -  (207)
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: [Pendiente] Importando -  (207)
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_51.png]
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: Display: Interchange import completed [C:/Users/UARTS SCHOO...tpix/5 GUI/Interface/Tile_39.png]
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: [Pendiente] Importando -  (206)
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: [Pendiente] Importando -  (206)
+[2026.02.12-20.10.03:963][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Craftpix/5 GUI/Interface/Tile_52.png]
+[2026.02.12-20.10.04:960][791]LogStreaming: Display: FlushAsyncLoading(1313): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-20.10.04:964][792]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.12-20.10.04:964][792]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.12-20.10.04:964][792]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.12-20.10.04:965][792]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.12-20.10.04:965][792]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
