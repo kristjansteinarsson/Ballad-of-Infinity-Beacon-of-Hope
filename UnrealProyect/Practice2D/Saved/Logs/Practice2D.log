@@ -2634,3 +2634,366 @@ LogInit: Object subsystem initialized
 [2026.02.12-18.24.05:490][130]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
 [2026.02.12-18.24.05:495][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
 [2026.02.12-18.24.05:544][132]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.02.12-18.26.31:441][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.26.31:487][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.26.31:487][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.26.31:504][472]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.26.31:505][472]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_13A21F5294A62E3629685659FA0CD5AB3.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.26.31:531][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.382 ms (total: 2.48 sec)
+[2026.02.12-18.26.31:570][472]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.26.31:570][472]LogContentValidation: Enabled validators:
+[2026.02.12-18.26.31:570][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.26.31:570][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.26.31:570][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.26.31:570][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.26.31:570][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.26.31:570][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.26.31:570][472]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.26.37:431][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.12-18.26.37:441][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.12-18.26.37:463][ 91]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.26.37:468][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005033s)
+[2026.02.12-18.26.37:468][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.005085s)
+[2026.02.12-18.26.37:492][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-18.26.37:494][ 91]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.12-18.26.37:495][ 91]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2026.02.12-18.26.37:497][ 91]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.12-18.26.37:497][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.12-18.26.37:497][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.12-18.26.37:497][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.12-18.26.37:497][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.12-18.26.37:497][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.12-18.26.37:499][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.12-18.26.37:536][ 91]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Elgato Wave:1)
+[2026.02.12-18.26.37:536][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.12-18.26.37:536][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.12-18.26.37:536][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.12-18.26.37:537][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.02.12-18.26.37:537][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.02.12-18.26.37:539][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.02.12-18.26.37:539][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.02.12-18.26.37:539][ 91]LogInit: FAudioDevice initialized with ID 17.
+[2026.02.12-18.26.37:539][ 91]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_1'.
+[2026.02.12-18.26.37:539][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.12-18.26.37:542][ 91]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.12-18.26.37:545][ 91]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.02.12-11.26.37
+[2026.02.12-18.26.37:545][ 91]LogWorld: Bringing up level for play took: 0.002643
+[2026.02.12-18.26.37:548][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.02.12-18.26.37:562][ 91]PIE: Server logged in
+[2026.02.12-18.26.37:563][ 91]PIE: Play in editor total start time 0,122 seconds.
+[2026.02.12-18.26.37:596][ 92]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.12-18.26.40:673][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-18.26.40:673][444]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.26.40:673][444]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-18.26.40:674][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.26.40:675][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.12-18.26.40:679][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.26.40:698][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-18.26.40:698][444]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.12-18.26.40:700][444]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.02.12-18.26.40:702][444]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.02.12-18.26.40:707][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.12-18.26.40:755][446]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.02.12-18.26.42:021][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7129.945312
+[2026.02.12-18.26.42:187][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-18.26.42:187][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7130.103516, Update Interval: 323.537109
+[2026.02.12-18.27.40:056][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.27.40:134][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.27.40:134][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.27.40:153][205]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.27.40:153][205]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_193CEAF654431D8245AB560B5EC23FFB6.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.27.40:161][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.556 ms (total: 2.59 sec)
+[2026.02.12-18.27.40:193][205]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.27.40:194][205]LogContentValidation: Enabled validators:
+[2026.02.12-18.27.40:194][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.27.40:194][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.27.40:194][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.27.40:194][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.27.40:194][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.27.40:194][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.27.40:194][205]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.27.41:307][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-18.27.43:458][437]LogSlate: External Image Picker: DecompressImage failed
+[2026.02.12-18.29.24:045][205]LogDerivedDataCache: C:/Users/JG PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.12-18.29.44:662][205]LogSlate: Window 'New Channel' being destroyed
+[2026.02.12-18.29.56:362][453]LogSlate: Window 'New Channel' being destroyed
+[2026.02.12-18.30.02:066][ 99]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-18.30.02:066][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.30.02:118][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.12-18.30.33:927][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.12-18.30.35:225][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.30.35:313][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.30.35:313][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.30.35:331][691]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.30.35:332][691]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_18078605D4D65B305E3FD33B248C8BB3B.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.30.35:339][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.640 ms (total: 2.70 sec)
+[2026.02.12-18.30.35:375][691]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.30.35:375][691]LogContentValidation: Enabled validators:
+[2026.02.12-18.30.35:375][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.30.35:375][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.30.35:375][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.30.35:375][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.30.35:375][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.30.35:375][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.30.35:375][691]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.31.12:736][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.12-18.31.21:253][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.31.21:339][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.31.21:339][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.31.21:392][964]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.31.21:392][964]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_16FC7B75446C684B51C1BD3A854F735E4.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.31.21:402][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.046 ms (total: 2.85 sec)
+[2026.02.12-18.31.21:441][964]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.31.21:441][964]LogContentValidation: Enabled validators:
+[2026.02.12-18.31.21:441][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.31.21:441][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.31.21:441][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.31.21:441][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.31.21:441][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.31.21:441][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.31.21:441][964]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.32.13:114][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.12-18.32.13:896][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.32.13:974][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.32.13:974][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.32.13:990][919]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.32.13:992][919]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_1CC8C106F4BA5394CFCC257A46A335CB6.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.32.13:998][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.654 ms (total: 2.95 sec)
+[2026.02.12-18.32.14:050][919]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.32.14:050][919]LogContentValidation: Enabled validators:
+[2026.02.12-18.32.14:050][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.32.14:050][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.32.14:050][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.32.14:050][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.32.14:050][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.32.14:050][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.32.14:050][919]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.32.33:345][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.12-18.32.33:958][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.32.34:057][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.32.34:057][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.32.34:075][964]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.32.34:075][964]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_1684B576B471EAD9BD13FC9AD39C0E914.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.32.34:102][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.113 ms (total: 3.10 sec)
+[2026.02.12-18.32.34:156][964]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.32.34:156][964]LogContentValidation: Enabled validators:
+[2026.02.12-18.32.34:156][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.32.34:156][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.32.34:156][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.32.34:156][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.32.34:156][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.32.34:156][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.32.34:156][964]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.32.57:756][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7505.673828
+[2026.02.12-18.32.58:045][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-18.32.58:045][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7505.953613, Update Interval: 305.945618
+[2026.02.12-18.33.12:570][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.12-18.33.13:203][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.33.13:256][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.33.13:256][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.33.13:274][780]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.33.13:274][780]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_1990FCBCA4142807342BFFDAF5FE16198.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.33.13:281][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.239 ms (total: 3.17 sec)
+[2026.02.12-18.33.13:318][780]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.33.13:318][780]LogContentValidation: Enabled validators:
+[2026.02.12-18.33.13:318][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.33.13:318][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.33.13:318][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.33.13:318][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.33.13:318][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.33.13:318][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.33.13:318][780]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.34.37:413][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.12-18.34.37:992][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.34.38:058][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.34.38:058][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.34.38:077][679]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.34.38:077][679]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_136536B05422EBE526618CFB009251A46.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.34.38:084][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.810 ms (total: 3.27 sec)
+[2026.02.12-18.34.38:135][679]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.34.38:135][679]LogContentValidation: Enabled validators:
+[2026.02.12-18.34.38:135][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.34.38:135][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.34.38:135][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.34.38:135][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.34.38:135][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.34.38:135][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.34.38:135][679]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.34.53:618][302]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Objects/BP_SawBlade.BP_SawBlade
+[2026.02.12-18.34.53:618][302]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.12-18.35.20:824][256]LogSlate: Window 'New Channel' being destroyed
+[2026.02.12-18.37.21:268][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.12-18.37.26:409][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.12-18.37.38:925][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.12-18.37.39:587][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.37.39:675][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.02.12-18.37.39:675][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.02.12-18.37.39:694][602]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.02.12-18.37.39:694][602]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_11885714B4BD4500F5AA4B4915D3FA2AA.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.02.12-18.37.39:703][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.555 ms (total: 3.38 sec)
+[2026.02.12-18.37.39:736][602]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.37.39:736][602]LogContentValidation: Enabled validators:
+[2026.02.12-18.37.39:736][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.37.39:736][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.37.39:736][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.37.39:736][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.37.39:736][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.37.39:736][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.37.39:736][602]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.02.12-18.37.55:883][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.12-18.37.56:441][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-18.37.56:481][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Objects/BP_SawBlade] ([2] browsable assets)...
+[2026.02.12-18.37.56:481][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Objects/BP_SawBlade]
+[2026.02.12-18.37.56:488][532]LogSavePackage: Moving output files for package: /Game/Blueprint/Objects/BP_SawBlade
+[2026.02.12-18.37.56:489][532]LogSavePackage: Moving '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_SawBlade9FDBFAAA45C38011163EE4AB9BC2FB65.tmp' to '../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Objects/BP_SawBlade.uasset'
+[2026.02.12-18.37.56:531][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.300 ms (total: 3.47 sec)
+[2026.02.12-18.37.56:580][532]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-18.37.56:580][532]LogContentValidation: Enabled validators:
+[2026.02.12-18.37.56:580][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-18.37.56:580][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-18.37.56:580][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-18.37.56:580][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-18.37.56:580][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-18.37.56:581][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-18.37.56:581][532]AssetCheck: /Game/Blueprint/Objects/BP_SawBlade Validating asset
+[2026.02.12-18.37.56:598][532]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/JG PC/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-18.38.03:811][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.12-18.38.03:818][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.12-18.38.03:841][351]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.38.03:846][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004498s)
+[2026.02.12-18.38.03:846][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.004541s)
+[2026.02.12-18.38.03:867][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.12-18.38.03:869][351]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.12-18.38.03:871][351]LogPlayLevel: PIE: World Init took: (0.001716s)
+[2026.02.12-18.38.03:871][351]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.12-18.38.03:871][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.12-18.38.03:871][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.12-18.38.03:871][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.12-18.38.03:871][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.12-18.38.03:871][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.12-18.38.03:874][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.12-18.38.03:907][351]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Elgato Wave:1)
+[2026.02.12-18.38.03:908][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.12-18.38.03:908][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.12-18.38.03:908][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.12-18.38.03:908][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.02.12-18.38.03:908][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.02.12-18.38.03:911][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.02.12-18.38.03:911][351]LogInit: FAudioDevice initialized with ID 18.
+[2026.02.12-18.38.03:911][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.02.12-18.38.03:911][351]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_1'.
+[2026.02.12-18.38.03:911][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.12-18.38.03:915][351]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.12-18.38.03:917][351]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.02.12-11.38.03
+[2026.02.12-18.38.03:917][351]LogWorld: Bringing up level for play took: 0.002524
+[2026.02.12-18.38.03:920][351]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.02.12-18.38.03:934][351]PIE: Server logged in
+[2026.02.12-18.38.03:935][351]PIE: Play in editor total start time 0,118 seconds.
+[2026.02.12-18.38.03:970][352]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.12-18.38.15:061][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-18.38.15:061][668]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.38.15:061][668]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-18.38.15:062][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.38.15:063][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.12-18.38.15:067][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.38.15:088][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-18.38.15:088][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.12-18.38.15:088][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.02.12-18.38.15:090][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.02.12-18.38.15:094][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-18.38.15:098][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.12-18.38.15:148][670]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.02.12-18.38.53:672][924]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7861.595703
+[2026.02.12-18.38.54:673][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-18.38.54:673][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7862.263672, Update Interval: 334.025696
+[2026.02.12-18.39.21:790][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.12-18.39.21:797][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.12-18.39.21:819][119]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.39.21:823][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004424s)
+[2026.02.12-18.39.21:823][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.004469s)
+[2026.02.12-18.39.21:848][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.12-18.39.21:849][119]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.12-18.39.21:851][119]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2026.02.12-18.39.21:851][119]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.12-18.39.21:851][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.12-18.39.21:851][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.12-18.39.21:851][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.12-18.39.21:851][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.12-18.39.21:851][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.12-18.39.21:854][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.12-18.39.21:885][119]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Elgato Wave:1)
+[2026.02.12-18.39.21:885][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.12-18.39.21:885][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.12-18.39.21:885][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.12-18.39.21:885][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.02.12-18.39.21:885][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.02.12-18.39.21:888][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.02.12-18.39.21:888][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.02.12-18.39.21:888][119]LogInit: FAudioDevice initialized with ID 19.
+[2026.02.12-18.39.21:888][119]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_1'.
+[2026.02.12-18.39.21:888][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.12-18.39.21:892][119]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.12-18.39.21:895][119]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.02.12-11.39.21
+[2026.02.12-18.39.21:895][119]LogWorld: Bringing up level for play took: 0.002360
+[2026.02.12-18.39.21:898][119]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.02.12-18.39.21:911][119]PIE: Server logged in
+[2026.02.12-18.39.21:913][119]PIE: Play in editor total start time 0,116 seconds.
+[2026.02.12-18.39.21:947][120]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.12-18.39.33:271][319]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Level_1/Level_1"
+[2026.02.12-18.39.33:271][319]LogNet: Browse: /Game/Levels/Level_1/Level_1
+[2026.02.12-18.39.33:271][319]LogLoad: LoadMap: /Game/Levels/Level_1/Level_1
+[2026.02.12-18.39.33:271][319]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.39.33:272][319]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-18.39.33:273][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.39.33:318][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-18.39.33:320][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.12-18.39.33:322][319]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.39.33:327][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004894s)
+[2026.02.12-18.39.33:327][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.004937s)
+[2026.02.12-18.39.33:327][319]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_1'.
+[2026.02.12-18.39.33:327][319]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.12-18.39.33:328][319]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2026.02.12-18.39.33:328][319]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.12-18.39.33:330][319]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.02.12-11.39.33
+[2026.02.12-18.39.33:331][319]LogWorld: Bringing up level for play took: 0.002094
+[2026.02.12-18.39.33:343][319]LogLoad: Took 0.071885 seconds to LoadMap(/Game/Levels/Level_1/UEDPIE_0_Level_1)
+[2026.02.12-18.39.33:343][319]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.39.33:346][319]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.12-18.39.34:088][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-18.39.34:088][402]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.12-18.39.34:088][402]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-18.39.34:088][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.39.34:091][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.12-18.39.34:095][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-18.39.34:119][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-18.39.34:121][402]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.12-18.39.34:121][402]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.02.12-18.39.34:122][402]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.02.12-18.39.34:131][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.12-18.39.34:184][404]LogPlayLevel: Display: Destroying online subsystem :Context_23
