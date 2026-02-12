@@ -14,13 +14,13 @@ Areas:
 - 2.) Saenz Station (Space Phasegate Hub) | A (Based on Sevastopol - Alien Isolation / Final Ship in Interstellar) 
 - 3.) Madrigal (Palmyra Swamp City)       | C
 - 4.) Skypoint (Lagrange Highlands)       | C
-- X.) Other Levels 			                  | C
+- X.) Other Levels 			              | C
 - F.) Lighthouse (Crown of Ominous Port)  | A (Based on Þrídrangaviti Lighthouse)
 
 Areas Cont.:
 - Tilesets        | A
 - Music           | B
-- Background 	    | B
+- Background 	  | B
 - Enemies         | A
 - Coins / Shops   | B
 
