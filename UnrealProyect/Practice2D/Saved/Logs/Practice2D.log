@@ -1329,3 +1329,504 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-18.37.25:691][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
 [2026.02.23-18.37.25:765][683]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2026.02.23-18.38.17:119][256]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.23-18.40.49:265][413]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.23-18.40.49:283][413]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.23-18.40.49:289][413]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.23-18.40.49:321][414]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.23-18.40.51:076][520]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Main
+[2026.02.23-18.40.51:093][520]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.23-18.40.51:254][528]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/W_Main.W_Main
+[2026.02.23-18.40.51:255][528]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.23-18.40.51:267][528]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.23-18.40.51:278][528]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.02.23-18.40.51:426][528]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-18.40.53:329][528]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.23-18.40.53:367][528]LogSlate: Took 0.010904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.23-18.41.00:212][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.02.23-18.41.00:713][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.41.00:758][889]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/W_Main] ([2] browsable assets)...
+[2026.02.23-18.41.00:768][889]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/W_Main.W_Main]
+[2026.02.23-18.41.00:768][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/W_Main]
+[2026.02.23-18.41.00:784][889]LogSavePackage: Moving output files for package: /Game/Blueprint/W_Main
+[2026.02.23-18.41.00:785][889]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_MainD37D3F9C4833DD9E39CD58BA5B91CB1C.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/W_Main.uasset'
+[2026.02.23-18.41.00:806][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.626 ms
+[2026.02.23-18.41.00:858][889]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.41.00:858][889]LogContentValidation: Enabled validators:
+[2026.02.23-18.41.00:858][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.41.00:858][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.41.00:858][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.41.00:858][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.41.00:858][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.41.00:858][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.41.00:859][889]AssetCheck: /Game/Blueprint/W_Main Validating asset
+[2026.02.23-18.41.00:897][889]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-18.41.30:451][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.02.23-18.41.31:096][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.41.31:137][210]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/W_Main] ([2] browsable assets)...
+[2026.02.23-18.41.31:140][210]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/W_Main.W_Main]
+[2026.02.23-18.41.31:140][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/W_Main]
+[2026.02.23-18.41.31:157][210]LogSavePackage: Moving output files for package: /Game/Blueprint/W_Main
+[2026.02.23-18.41.31:158][210]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_Main48D93FC646D09688B9899F878ACA8E5A.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/W_Main.uasset'
+[2026.02.23-18.41.31:171][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.328 ms (total: 168.954 ms)
+[2026.02.23-18.41.31:215][210]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.41.31:215][210]LogContentValidation: Enabled validators:
+[2026.02.23-18.41.31:215][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.41.31:215][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.41.31:215][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.41.31:215][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.41.31:215][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.41.31:215][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.41.31:215][210]AssetCheck: /Game/Blueprint/W_Main Validating asset
+[2026.02.23-18.41.55:517][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.02.23-18.41.56:177][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.41.56:218][301]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/W_Main] ([2] browsable assets)...
+[2026.02.23-18.41.56:223][301]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/W_Main.W_Main]
+[2026.02.23-18.41.56:223][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/W_Main]
+[2026.02.23-18.41.56:240][301]LogSavePackage: Moving output files for package: /Game/Blueprint/W_Main
+[2026.02.23-18.41.56:241][301]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_MainEEBC4CA64FA0C151C6117EB04106FE36.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/W_Main.uasset'
+[2026.02.23-18.41.56:254][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.696 ms (total: 245.651 ms)
+[2026.02.23-18.41.56:295][301]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.41.56:295][301]LogContentValidation: Enabled validators:
+[2026.02.23-18.41.56:295][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.41.56:295][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.41.56:295][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.41.56:295][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.41.56:295][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.41.56:295][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.41.56:295][301]AssetCheck: /Game/Blueprint/W_Main Validating asset
+[2026.02.23-18.42.02:521][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 335.613983
+[2026.02.23-18.42.02:665][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-18.42.02:667][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 335.746063, Update Interval: 348.797272
+[2026.02.23-18.42.35:775][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.02.23-18.42.36:269][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.42.36:310][195]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/W_Main] ([2] browsable assets)...
+[2026.02.23-18.42.36:314][195]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/W_Main.W_Main]
+[2026.02.23-18.42.36:314][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/W_Main]
+[2026.02.23-18.42.36:329][195]LogSavePackage: Moving output files for package: /Game/Blueprint/W_Main
+[2026.02.23-18.42.36:329][195]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_Main9AB1D47447F8C9BABD7E819F770A2A2C.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/W_Main.uasset'
+[2026.02.23-18.42.36:345][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.013 ms (total: 320.664 ms)
+[2026.02.23-18.42.36:386][195]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.42.36:386][195]LogContentValidation: Enabled validators:
+[2026.02.23-18.42.36:386][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.42.36:386][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.42.36:386][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.42.36:386][195]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.42.36:386][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.42.36:386][195]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.42.36:387][195]AssetCheck: /Game/Blueprint/W_Main Validating asset
+[2026.02.23-18.44.17:317][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.02.23-18.44.18:004][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.44.18:048][667]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/W_Main] ([2] browsable assets)...
+[2026.02.23-18.44.18:053][667]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/W_Main.W_Main]
+[2026.02.23-18.44.18:053][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/W_Main]
+[2026.02.23-18.44.18:070][667]LogSavePackage: Moving output files for package: /Game/Blueprint/W_Main
+[2026.02.23-18.44.18:070][667]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_Main418E7DB34DCDECE641AA1AA0CE7C51BD.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/W_Main.uasset'
+[2026.02.23-18.44.18:083][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.409 ms (total: 400.074 ms)
+[2026.02.23-18.44.18:126][667]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.44.18:126][667]LogContentValidation: Enabled validators:
+[2026.02.23-18.44.18:126][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.44.18:126][667]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.44.18:126][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.44.18:126][667]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.44.18:126][667]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.44.18:126][667]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.44.18:126][667]AssetCheck: /Game/Blueprint/W_Main Validating asset
+[2026.02.23-18.44.30:319][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.02.23-18.44.30:978][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.44.31:018][297]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/W_Main] ([2] browsable assets)...
+[2026.02.23-18.44.31:022][297]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/W_Main.W_Main]
+[2026.02.23-18.44.31:022][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/W_Main]
+[2026.02.23-18.44.31:040][297]LogSavePackage: Moving output files for package: /Game/Blueprint/W_Main
+[2026.02.23-18.44.31:041][297]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_MainCCA45E6E40BD8030E61D5AAFA6B49C06.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/W_Main.uasset'
+[2026.02.23-18.44.31:054][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.158 ms (total: 476.232 ms)
+[2026.02.23-18.44.31:099][297]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.44.31:099][297]LogContentValidation: Enabled validators:
+[2026.02.23-18.44.31:099][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.44.31:099][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.44.31:099][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.44.31:099][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.44.31:099][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.44.31:099][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.44.31:101][297]AssetCheck: /Game/Blueprint/W_Main Validating asset
+[2026.02.23-18.44.34:373][445]LogSlate: Window 'W_Main' being destroyed
+[2026.02.23-18.44.37:233][589]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.23-18.44.37:245][589]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.23-18.44.37:261][590]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.23-18.44.38:648][674]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2026.02.23-18.44.38:649][674]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.23-18.45.55:751][ 55]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.23-18.46.04:791][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.46.04:791][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Widgets/W_Main] ([2] browsable assets)...
+[2026.02.23-18.46.04:791][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/W_Main]
+[2026.02.23-18.46.04:805][337]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/W_Main
+[2026.02.23-18.46.04:805][337]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_MainFCD5FD7C4429461BEB9FA5A249AA4DB8.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset'
+[2026.02.23-18.46.04:812][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.156 ms (total: 498.389 ms)
+[2026.02.23-18.46.04:937][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.02.23-18.46.04:975][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.23-18.46.05:007][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.23-18.46.05:037][337]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.23-18.46.05:037][337]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.46.05:037][337]LogContentValidation: Enabled validators:
+[2026.02.23-18.46.05:037][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.46.05:037][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.46.05:037][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.46.05:037][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.46.05:037][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.46.05:037][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.46.05:037][337]AssetCheck: /Game/Blueprint/Widgets/W_Main Validating asset
+[2026.02.23-18.46.05:068][337]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-18.46.21:370][478]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-18.46.21:494][478]LogInterchangeEngine: [Pending] Importing
+[2026.02.23-18.46.21:494][478]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Lenovo/Documents/DarkSouls/Sketches/UI_DESIGN_1.png]
+[2026.02.23-18.46.21:496][478]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.02.23-18.46.21:496][478]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Lenovo/Documents/DarkSouls/Sketches/UI_DESIGN_3.png]
+[2026.02.23-18.46.21:497][478]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.02.23-18.46.21:497][478]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Lenovo/Documents/DarkSouls/Sketches/UI_DESIGN_4.png]
+[2026.02.23-18.46.22:048][480]LogInterchangeCore: Warning: The Interchange.MaxAssetPathLength value (160) is too high for the current setup.
+Content path: 'C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/'
+System max path length: 260.
+
+[2026.02.23-18.46.22:049][480]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-18.46.22:054][481]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.23-18.46.22:054][481]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.23-18.46.22:054][481]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.23-18.46.22:387][482]LogTexture: Display: Building textures: /Game/Blueprint/Widgets/UI_DESIGN_3.UI_DESIGN_3 (TFO_AutoDXT, 32x64 x1x1x1) (Required Memory Estimate: 1.32284 MB), EncodeSpeed: Fast
+[2026.02.23-18.46.22:387][482]LogTexture: Display: Building textures: /Game/Blueprint/Widgets/UI_DESIGN_4.UI_DESIGN_4 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 1.645795 MB), EncodeSpeed: Fast
+[2026.02.23-18.46.22:387][482]LogTexture: Display: Building textures: /Game/Blueprint/Widgets/UI_DESIGN_1.UI_DESIGN_1 (TFO_AutoDXT, 64x32 x1x1x1) (Required Memory Estimate: 1.32284 MB), EncodeSpeed: Fast
+[2026.02.23-18.46.22:738][482]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Lenovo/Docu...s/DarkSouls/Sketches/UI_DESIGN_1.png]
+[2026.02.23-18.46.22:738][482]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.02.23-18.46.22:738][482]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Lenovo/Docu...s/DarkSouls/Sketches/UI_DESIGN_3.png]
+[2026.02.23-18.46.22:738][482]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.02.23-18.46.22:739][482]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Lenovo/Docu...s/DarkSouls/Sketches/UI_DESIGN_4.png]
+[2026.02.23-18.46.22:775][482]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.23-18.46.22:775][482]LogInterchangeEngine: [Success] Import Done
+[2026.02.23-18.46.26:326][670]LogTexture: Display: Building textures: /Game/Blueprint/Widgets/UI_DESIGN_1.UI_DESIGN_1 (BGRA8, 64x32 x1x1x1) (Required Memory Estimate: 1.070297 MB), EncodeSpeed: Fast
+[2026.02.23-18.46.26:326][670]LogTexture: Display: Building textures: /Game/Blueprint/Widgets/UI_DESIGN_3.UI_DESIGN_3 (BGRA8, 32x64 x1x1x1) (Required Memory Estimate: 1.070297 MB), EncodeSpeed: Fast
+[2026.02.23-18.46.26:327][670]LogTexture: Display: Building textures: /Game/Blueprint/Widgets/UI_DESIGN_4.UI_DESIGN_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.23-18.46.28:339][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.02.23-18.46.28:346][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.46.28:387][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Widgets/UI_DESIGN_1] ([1] browsable assets)...
+[2026.02.23-18.46.28:389][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Widgets/UI_DESIGN_1.UI_DESIGN_1]
+[2026.02.23-18.46.28:389][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/UI_DESIGN_1]
+[2026.02.23-18.46.28:411][789]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/UI_DESIGN_1
+[2026.02.23-18.46.28:411][789]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/UI_DESIGN_170197ECB4A32026FF7CAEA8FF7B0231C.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/UI_DESIGN_1.uasset'
+[2026.02.23-18.46.28:414][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Widgets/UI_DESIGN_3] ([1] browsable assets)...
+[2026.02.23-18.46.28:420][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Widgets/UI_DESIGN_3.UI_DESIGN_3]
+[2026.02.23-18.46.28:420][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/UI_DESIGN_3]
+[2026.02.23-18.46.28:434][789]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/UI_DESIGN_3
+[2026.02.23-18.46.28:434][789]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/UI_DESIGN_3EDDDFEBC4D60F395AEEC77936BA96A92.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/UI_DESIGN_3.uasset'
+[2026.02.23-18.46.28:436][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Widgets/UI_DESIGN_4] ([1] browsable assets)...
+[2026.02.23-18.46.28:438][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Widgets/UI_DESIGN_4.UI_DESIGN_4]
+[2026.02.23-18.46.28:438][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/UI_DESIGN_4]
+[2026.02.23-18.46.28:452][789]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/UI_DESIGN_4
+[2026.02.23-18.46.28:452][789]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/UI_DESIGN_44E14132047C9DC38C9C43184ACA91E7D.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/UI_DESIGN_4.uasset'
+[2026.02.23-18.46.28:469][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.037 ms (total: 621.426 ms)
+[2026.02.23-18.46.28:507][789]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.23-18.46.28:507][789]LogContentValidation: Enabled validators:
+[2026.02.23-18.46.28:507][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.46.28:507][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.46.28:507][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.46.28:507][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.46.28:507][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.46.28:507][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.46.28:507][789]AssetCheck: /Game/Blueprint/Widgets/UI_DESIGN_1 Validating asset
+[2026.02.23-18.46.28:507][789]AssetCheck: /Game/Blueprint/Widgets/UI_DESIGN_3 Validating asset
+[2026.02.23-18.46.28:507][789]AssetCheck: /Game/Blueprint/Widgets/UI_DESIGN_4 Validating asset
+[2026.02.23-18.46.28:534][789]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-18.46.41:320][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.02.23-18.46.41:905][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.46.41:937][503]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Widgets/W_Main] ([2] browsable assets)...
+[2026.02.23-18.46.41:940][503]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/Widgets/W_Main.W_Main]
+[2026.02.23-18.46.41:940][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/W_Main]
+[2026.02.23-18.46.41:963][503]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/W_Main
+[2026.02.23-18.46.41:963][503]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_Main6641CC9D440A06585DFA708880A04F0D.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset'
+[2026.02.23-18.46.41:978][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.044 ms (total: 694.470 ms)
+[2026.02.23-18.46.42:017][503]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.46.42:017][503]LogContentValidation: Enabled validators:
+[2026.02.23-18.46.42:017][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.46.42:017][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.46.42:017][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.46.42:017][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.46.42:017][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.46.42:017][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.46.42:018][503]AssetCheck: /Game/Blueprint/Widgets/W_Main Validating asset
+[2026.02.23-18.47.01:471][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.02.23-18.47.01:928][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.47.01:972][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Widgets/W_Main] ([2] browsable assets)...
+[2026.02.23-18.47.01:977][631]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/Widgets/W_Main.W_Main]
+[2026.02.23-18.47.01:977][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/W_Main]
+[2026.02.23-18.47.01:993][631]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/W_Main
+[2026.02.23-18.47.01:994][631]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_MainD5FB84F74916FE8D5AD287A4A3197DBD.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset'
+[2026.02.23-18.47.02:007][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.822 ms (total: 773.292 ms)
+[2026.02.23-18.47.02:053][631]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.47.02:053][631]LogContentValidation: Enabled validators:
+[2026.02.23-18.47.02:053][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.47.02:053][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.47.02:053][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.47.02:053][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.47.02:053][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.47.02:053][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.47.02:054][631]AssetCheck: /Game/Blueprint/Widgets/W_Main Validating asset
+[2026.02.23-18.47.32:794][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.02.23-18.47.33:170][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.47.33:217][465]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Widgets/W_Main] ([2] browsable assets)...
+[2026.02.23-18.47.33:221][465]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/Widgets/W_Main.W_Main]
+[2026.02.23-18.47.33:221][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/W_Main]
+[2026.02.23-18.47.33:236][465]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/W_Main
+[2026.02.23-18.47.33:237][465]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_Main207297424AD731D4553845A9C1D80856.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset'
+[2026.02.23-18.47.33:253][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.832 ms (total: 856.125 ms)
+[2026.02.23-18.47.33:289][465]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.47.33:289][465]LogContentValidation: Enabled validators:
+[2026.02.23-18.47.33:289][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.47.33:289][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.47.33:289][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.47.33:289][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.47.33:289][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.47.33:290][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.47.33:290][465]AssetCheck: /Game/Blueprint/Widgets/W_Main Validating asset
+[2026.02.23-18.47.35:927][612]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_1/Level_1.Level_1:PersistentLevel.Level
+[2026.02.23-18.47.35:928][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.23-18.47.49:673][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.23-18.47.50:061][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.47.50:200][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.02.23-18.47.50:242][334]LogSavePackage: Moving output files for package: /Game/Levels/Level_1/Level_1
+[2026.02.23-18.47.50:243][334]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/Level_196E0E2AE42D5E17C6AB378AF0505E660.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap'
+[2026.02.23-18.47.50:261][334]LogFileHelpers: Saving map 'Level_1' took 0.152
+[2026.02.23-18.47.50:275][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.283 ms (total: 1.07 sec)
+[2026.02.23-18.47.50:320][334]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.47.50:320][334]LogContentValidation: Enabled validators:
+[2026.02.23-18.47.50:320][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.47.50:320][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.47.50:320][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.47.50:320][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.47.50:320][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.47.50:320][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.47.50:320][334]AssetCheck: /Game/Levels/Level_1/Level_1 Validating asset
+[2026.02.23-18.47.50:342][334]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-18.47.50:979][373]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-18.47.50:992][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-18.47.51:037][373]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.47.51:051][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012985s)
+[2026.02.23-18.47.51:051][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.013067s)
+[2026.02.23-18.47.51:079][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.02.23-18.47.51:080][373]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.23-18.47.51:082][373]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2026.02.23-18.47.51:083][373]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-18.47.51:083][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-18.47.51:083][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-18.47.51:083][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-18.47.51:083][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-18.47.51:083][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-18.47.51:086][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-18.47.51:158][373]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.23-18.47.51:158][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-18.47.51:158][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-18.47.51:158][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-18.47.51:159][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.23-18.47.51:159][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.23-18.47.51:163][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.23-18.47.51:163][373]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.23-18.47.51:163][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.23-18.47.51:163][373]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_1'.
+[2026.02.23-18.47.51:163][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.23-18.47.51:169][373]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.23-18.47.51:174][373]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2026.02.23-19.47.51
+[2026.02.23-18.47.51:176][373]LogWorld: Bringing up level for play took: 0.006436
+[2026.02.23-18.47.51:180][373]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.02.23-18.47.51:204][373]PIE: Server logged in
+[2026.02.23-18.47.51:207][373]PIE: Play in editor total start time 0,216 seconds.
+[2026.02.23-18.47.54:878][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-18.47.54:878][590]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.47.54:879][590]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.47.54:879][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.47.54:881][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-18.47.54:887][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.47.54:919][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-18.47.54:919][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.23-18.47.54:919][590]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.23-18.47.54:922][590]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.23-18.47.54:929][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-18.47.54:934][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.02.23-18.47.54:984][591]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.02.23-18.47.55:410][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 688.501404
+[2026.02.23-18.47.55:588][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-18.47.55:588][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 688.654053, Update Interval: 349.297150
+[2026.02.23-18.48.10:505][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.02.23-18.48.11:015][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-18.48.11:060][507]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Widgets/W_Main] ([2] browsable assets)...
+[2026.02.23-18.48.11:063][507]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/Widgets/W_Main.W_Main]
+[2026.02.23-18.48.11:063][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widgets/W_Main]
+[2026.02.23-18.48.11:080][507]LogSavePackage: Moving output files for package: /Game/Blueprint/Widgets/W_Main
+[2026.02.23-18.48.11:081][507]LogSavePackage: Moving '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/W_Main45F06156406698518C88A1A73591931D.tmp' to '../../../../../Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset'
+[2026.02.23-18.48.11:101][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.320 ms (total: 1.15 sec)
+[2026.02.23-18.48.11:148][507]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-18.48.11:149][507]LogContentValidation: Enabled validators:
+[2026.02.23-18.48.11:149][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-18.48.11:149][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-18.48.11:149][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-18.48.11:149][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-18.48.11:149][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-18.48.11:149][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-18.48.11:149][507]AssetCheck: /Game/Blueprint/Widgets/W_Main Validating asset
+[2026.02.23-18.48.12:335][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-18.48.12:335][573]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.48.12:345][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010364s)
+[2026.02.23-18.48.12:345][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.010425s)
+[2026.02.23-18.48.12:377][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.23-18.48.12:380][573]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.23-18.48.12:383][573]LogPlayLevel: PIE: World Init took: (0.002814s)
+[2026.02.23-18.48.12:384][573]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-18.48.12:384][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-18.48.12:384][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-18.48.12:384][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-18.48.12:384][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-18.48.12:384][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-18.48.12:387][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-18.48.12:454][573]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.23-18.48.12:454][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-18.48.12:454][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-18.48.12:454][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-18.48.12:455][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.23-18.48.12:455][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.23-18.48.12:459][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.23-18.48.12:459][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.23-18.48.12:459][573]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.23-18.48.12:459][573]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1'.
+[2026.02.23-18.48.12:459][573]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.23-18.48.12:496][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-18.48.12:496][573]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.23-18.48.12:502][573]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2026.02.23-19.48.12
+[2026.02.23-18.48.12:503][573]LogWorld: Bringing up level for play took: 0.005784
+[2026.02.23-18.48.12:506][573]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.02.23-18.48.12:534][573]PIE: Server logged in
+[2026.02.23-18.48.12:537][573]PIE: Play in editor total start time 0,201 seconds.
+[2026.02.23-18.48.12:563][574]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.02.23-18.48.12:563][574]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.02.23-18.48.20:629][ 20]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Level_1/Level_1"
+[2026.02.23-18.48.20:629][ 20]LogNet: Browse: /Game/Levels/Level_1/Level_1
+[2026.02.23-18.48.20:629][ 20]LogLoad: LoadMap: /Game/Levels/Level_1/Level_1
+[2026.02.23-18.48.20:629][ 20]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.48.20:637][ 20]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.48.20:637][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.48.20:690][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-18.48.20:694][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.02.23-18.48.20:695][ 20]LogPlayLevel: Creating play world package: /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.48.20:704][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008619s)
+[2026.02.23-18.48.20:705][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1/Level_1.Level_1 to /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 (0.008701s)
+[2026.02.23-18.48.20:705][ 20]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1'.
+[2026.02.23-18.48.20:705][ 20]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.02.23-18.48.20:707][ 20]LogPlayLevel: PIE: World Init took: (0.001929s)
+[2026.02.23-18.48.20:707][ 20]LogLoad: Game class is 'Gamemode2D_C'
+[2026.02.23-18.48.20:711][ 20]LogWorld: Bringing World /Game/Levels/Level_1/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2026.02.23-19.48.20
+[2026.02.23-18.48.20:712][ 20]LogWorld: Bringing up level for play took: 0.004433
+[2026.02.23-18.48.20:734][ 20]LogLoad: Took 0.105487 seconds to LoadMap(/Game/Levels/Level_1/UEDPIE_0_Level_1)
+[2026.02.23-18.48.20:734][ 20]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.50.02:440][769]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.23-18.50.11:441][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-18.50.11:441][895]LogWorld: BeginTearingDown for /Game/Levels/Level_1/UEDPIE_0_Level_1
+[2026.02.23-18.50.11:447][895]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.23-18.50.11:456][895]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.50.11:456][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.11:458][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-18.50.11:471][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.11:515][895]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.23-18.50.11:516][895]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.23-18.50.11:518][895]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.23-18.50.11:531][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.02.23-18.50.11:735][896]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.02.23-18.50.14:541][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.23-18.50.14:642][967]LogStall: Shutdown...
+[2026.02.23-18.50.14:642][967]LogStall: Shutdown complete.
+[2026.02.23-18.50.14:740][967]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.50.14:740][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.14:753][967]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.50.14:753][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.14:838][967]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.50.14:838][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.14:938][967]LogSlate: Window 'Practice2D - Unreal Editor' being destroyed
+[2026.02.23-18.50.15:265][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.23-18.50.15:290][967]Cmd: QUIT_EDITOR
+[2026.02.23-18.50.15:290][968]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.23-18.50.15:300][968]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.23-18.50.15:302][968]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.23-18.50.15:302][968]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.23-18.50.15:303][968]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.50.15:303][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.15:328][968]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.23-18.50.15:328][968]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.23-18.50.15:328][968]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.23-18.50.15:334][968]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-18.50.15:335][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-18.50.15:341][968]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.23-18.50.15:341][968]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.23-18.50.15:344][968]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.23-18.50.15:573][968]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.23-18.50.15:573][968]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.23-18.50.15:573][968]LogAudio: Display: Audio Device unregistered from world 'Level_1'.
+[2026.02.23-18.50.15:573][968]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.23-18.50.15:573][968]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.23-18.50.15:576][968]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.23-18.50.15:586][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.23-18.50.15:586][968]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.23-18.50.15:587][968]LogWindowsTextInputMethodSystem: Activated input method: Icelandic (Iceland) - (Keyboard).
+[2026.02.23-18.50.15:591][968]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.23-18.50.15:591][968]LogExit: Preparing to exit.
+[2026.02.23-18.50.15:659][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.15:663][968]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.23-18.50.16:878][968]LogEditorDataStorage: Deinitializing
+[2026.02.23-18.50.17:016][968]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.23-18.50.17:047][968]LogExit: Editor shut down
+[2026.02.23-18.50.17:053][968]LogExit: Transaction tracking system shut down
+[2026.02.23-18.50.17:282][968]LogExit: Object subsystem successfully closed.
+[2026.02.23-18.50.17:384][968]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.23-18.50.17:516][968]LogMemoryProfiler: Shutdown
+[2026.02.23-18.50.17:516][968]LogNetworkingProfiler: Shutdown
+[2026.02.23-18.50.17:516][968]LoadingProfiler: Shutdown
+[2026.02.23-18.50.17:516][968]LogTimingProfiler: Shutdown
+[2026.02.23-18.50.17:517][968]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.23-18.50.17:517][968]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.23-18.50.17:833][968]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.23-18.50.17:838][968]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.23-18.50.17:838][968]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB901FEDD-4137-30C0-7212-3EA943ECDE7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=777ec8724c0f13a29eb6c0a8077567e2%7C3915c39ef5f34f0481068dea6ae47b40%7C92b050fc-3705-4461-8e22-0dd597f2ce63&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.23-18.50.18:375][968]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.23-18.50.18:385][968]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.23-18.50.18:386][968]RenderDocPlugin: plugin has been unloaded.
+[2026.02.23-18.50.18:386][968]LogXGEController: Cleaning working directory: C:/Users/Lenovo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.02.23-18.50.18:390][968]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.23-18.50.18:390][968]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.23-18.50.18:390][968]LogPakFile: Destroying PakPlatformFile
+[2026.02.23-18.50.18:590][968]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.23-18.50.18:628][968]LogExit: Exiting.
+[2026.02.23-18.50.18:656][968]Log file closed, 02/23/26 19:50:18
