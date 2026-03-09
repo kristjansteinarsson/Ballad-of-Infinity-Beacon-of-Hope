@@ -10,11 +10,8 @@ C - Fun ideas, only do if we have time
 # To Do #
 
 Areas:
-- 1.) Ominous Port (Aldebaran)            | A (Based on Night City Cyberpunk)
-- 2.) Saenz Station (Space Phasegate Hub) | A (Based on Sevastopol - Alien Isolation / Final Ship in Interstellar) 
-- 3.) Madrigal (Palmyra Swamp City)       | C
-- 4.) Skypoint (Lagrange Highlands)       | C
-- X.) Other Levels 			              | C
+- 1.) Saenz Station (Space Phasegate Hub) | A (Based on Sevastopol - Alien Isolation / Final Ship in Interstellar) 
+- 2.) Ominous Port (Aldebaran)            | A (Based on Night City Cyberpunk)
 - F.) Lighthouse (Crown of Ominous Port)  | A (Based on Þrídrangaviti Lighthouse)
 
 Areas Cont.:
@@ -22,14 +19,13 @@ Areas Cont.:
 - Music           | B
 - Background 	  | B
 - Enemies         | A
-- Coins / Shops   | B
+- Coins / Shops   | C
 
 Player:
 - Weapons:
 	- Melee | A
-	- Range | B
+	- Range | C
 	- Magic | C
-- Inventory  | B
 - Controls   | A
 	- Dodge Roll
 	- Jump
@@ -41,7 +37,6 @@ Max:
 - Enemies
 - Map Wireframe
 - Coins / Shops
-- Inventory BP
 
 Kris:
 - Tilesets
@@ -50,4 +45,8 @@ Kris:
 - UI (for Hud, Inventory, Etc.)
 - Models
 - Videogame Art
+
+
+Requirements:
+At least 1 boss that has a behaviour tree
 ```
