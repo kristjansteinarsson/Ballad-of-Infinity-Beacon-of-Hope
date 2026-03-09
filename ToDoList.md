@@ -49,4 +49,6 @@ Kris:
 
 Requirements:
 At least 1 boss that has a behaviour tree
+Enemies that do Melee and/or Projectiles
+Finish the 2 levels
 ```
