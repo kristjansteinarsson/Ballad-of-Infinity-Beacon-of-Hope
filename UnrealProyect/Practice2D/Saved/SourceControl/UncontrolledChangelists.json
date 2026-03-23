@@ -5,13 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Transitions/BP_Transition.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/NewWidgetBlueprint.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_2/Level_2.umap",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Room_4.uasset",
 				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BT_BasicMelee.uasset",
 				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BB_BasicMelee.uasset",
 				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BP_BaseEnemy.uasset",
-				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap",
-				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Transitions/BP_Transition.uasset",
-				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/NewWidgetBlueprint.uasset",
-				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_2/Level_2.umap"
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap"
 			]
 		}
 	]
