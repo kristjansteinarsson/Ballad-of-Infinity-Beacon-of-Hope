@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BT_BasicMelee.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BB_BasicMelee.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BP_BaseEnemy.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/AI_Enemy.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1_Main.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Transitions/BP_Transition.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/NewWidgetBlueprint.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_2/Level_2.umap",
@@ -203,11 +209,7 @@
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/AI/BP_EnemySkeleton.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Room_1.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Room_5.uasset",
-				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/FloorTexture_Mat_Single.uasset",
-				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BT_BasicMelee.uasset",
-				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BB_BasicMelee.uasset",
-				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BP_BaseEnemy.uasset",
-				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap"
+				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/FloorTexture_Mat_Single.uasset"
 			]
 		}
 	]
