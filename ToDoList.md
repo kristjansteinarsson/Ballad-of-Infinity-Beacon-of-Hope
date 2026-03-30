@@ -51,4 +51,20 @@ Requirements:
 At least 1 boss that has a behaviour tree
 Enemies that do Melee and/or Projectiles
 Finish the 2 levels
+
+---
+
+Ballad of Infinity
+Sprites personajes  16
+Environment        	Mostly Done
+Change PlaceHolders Mostly Done
+Design 2 levels     Halfway Done
+Enemy             	Done
+Enemy 2            	15
+BOSS            	Halfway Done
+Main Character      16
+Shop             	16
+HUD ART            	Done
+HUD            		Mostly Done
+CORE LOOP         	Done-ish
 ```
