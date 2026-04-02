@@ -165,6 +165,7 @@
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Room_1.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/Window.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/Window_Mat.uasset",
+<<<<<<< HEAD
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Objects/BP_Elevator.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Music/coolshit.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Music/Boss1.uasset",
@@ -197,6 +198,21 @@
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/RockTexture.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Music/Docks.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Shop/BP_Shop.uasset",
+=======
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BT_BasicMelee.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BB_BasicMelee.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BP_BaseEnemy.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/AI_Enemy.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1_Main.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BTTask_Attack.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BaseEnemyAttack.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/Attacks/Melee/BP_Attack_Light_1.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main.uasset",
+				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/BTTask_GetCloseToTarget.uasset",
+>>>>>>> Ai
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Room_2.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Objects/BP_Door.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Objects/BP_Key.uasset",
@@ -211,6 +227,7 @@
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Room_5.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/FloorTexture_Mat_Single.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/Hole_Mat.uasset",
+<<<<<<< HEAD
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Menu/Menu.umap",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Menu.uasset",
 				"C:/Users/UARTS SCHOOL/Documents/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Objects/BP_Elevator.uasset",
@@ -225,6 +242,8 @@
 				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1.umap",
 				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Enemies/AI_Enemy.uasset",
 				"C:/Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_1/Level_1_Main.uasset",
+=======
+>>>>>>> Ai
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/atmosphere1.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/atmosphere_Sprite_0.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/atmosphere_Sprite_1.uasset",
