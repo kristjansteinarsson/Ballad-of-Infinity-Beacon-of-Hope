@@ -5233,3 +5233,1093 @@ Make sure '/Game/Blueprint/Enemies/Enemy_2/AB_Crawler.AB_Crawler_C' has been com
 [2026.04.05-22.52.40:036][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.05-22.52.40:036][175]AssetCheck: /Game/Blueprint/Character/Controller/IA_Run Validating asset
 [2026.04.05-22.52.40:056][175]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.05-22.56.17:127][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27147.642578
+[2026.04.05-22.56.18:126][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.05-22.56.18:126][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27148.308594, Update Interval: 356.158325
+[2026.04.05-23.02.47:507][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27538.103516
+[2026.04.05-23.02.48:508][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.05-23.02.48:508][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27538.769531, Update Interval: 315.112152
+[2026.04.05-23.07.53:963][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.07.54:037][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/Controller/InputMap2D] ([1] browsable assets)...
+[2026.04.05-23.07.54:037][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/Controller/InputMap2D]
+[2026.04.05-23.07.54:040][359]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/Controller/InputMap2D
+[2026.04.05-23.07.54:040][359]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/InputMap2DF65A736F4A8CB0F9DE5EB9A8879D9A09.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/Controller/InputMap2D.uasset'
+[2026.04.05-23.07.54:052][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.667 ms (total: 6.04 sec)
+[2026.04.05-23.07.54:131][359]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.07.54:131][359]LogContentValidation: Enabled validators:
+[2026.04.05-23.07.54:131][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.07.54:132][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.07.54:132][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.07.54:132][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.07.54:132][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.07.54:132][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.07.54:132][359]AssetCheck: /Game/Blueprint/Character/Controller/InputMap2D Validating asset
+[2026.04.05-23.08.36:812][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27887.708984
+[2026.04.05-23.08.36:996][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.05-23.08.36:996][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27887.878906, Update Interval: 320.215454
+[2026.04.05-23.09.26:758][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.05-23.10.04:464][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.04.05-23.10.05:462][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.10.05:547][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.10.05:547][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.10.05:560][946]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.10.05:561][946]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2DEA22549A4F55A792BFDA8B830D3E7F42.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.10.05:573][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.518 ms (total: 6.16 sec)
+[2026.04.05-23.10.05:647][946]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.10.05:647][946]LogContentValidation: Enabled validators:
+[2026.04.05-23.10.05:647][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.10.05:647][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.10.05:647][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.10.05:647][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.10.05:647][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.10.05:647][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.10.05:647][946]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.10.05:665][946]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.05-23.10.39:204][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.05-23.10.39:621][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.10.39:702][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.10.39:702][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.10.39:715][957]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.10.39:717][957]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2D81DF43DE426F2C9A30A66FB7750980A3.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.10.39:727][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.511 ms (total: 6.26 sec)
+[2026.04.05-23.10.39:806][957]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.10.39:806][957]LogContentValidation: Enabled validators:
+[2026.04.05-23.10.39:806][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.10.39:806][957]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.10.39:806][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.10.39:806][957]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.10.39:806][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.10.39:806][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.10.39:806][957]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.11.39:412][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.05-23.11.40:014][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.11.40:097][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.11.40:097][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.11.40:111][526]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.11.40:112][526]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2DC795443C49D819D61098E187CFB22CF3.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.11.40:124][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.036 ms (total: 6.37 sec)
+[2026.04.05-23.11.40:202][526]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.11.40:202][526]LogContentValidation: Enabled validators:
+[2026.04.05-23.11.40:202][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.11.40:202][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.11.40:202][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.11.40:202][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.11.40:202][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.11.40:202][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.11.40:202][526]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.11.42:008][634]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.11.42:019][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.11.42:019][634]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.11.42:032][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011374s)
+[2026.04.05-23.11.42:032][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.011416s)
+[2026.04.05-23.11.42:054][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.05-23.11.42:058][634]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.11.42:059][634]LogPlayLevel: PIE: World Init took: (0.001913s)
+[2026.04.05-23.11.42:059][634]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.04.05-23.11.42:059][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.11.42:061][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.11.42:061][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.11.42:061][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.11.42:061][634]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.11.42:061][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.11.42:061][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.11.42:061][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.11.42:061][634]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.11.42:061][634]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.11.42:061][634]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.11.42:062][634]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.11.42:109][634]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.11.42:109][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.11.42:109][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.11.42:109][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.11.42:109][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.04.05-23.11.42:109][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.04.05-23.11.42:112][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.04.05-23.11.42:112][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.04.05-23.11.42:112][634]LogInit: FAudioDevice initialized with ID 36.
+[2026.04.05-23.11.42:112][634]LogAudio: Display: Audio Device (ID: 36) registered with world 'Level_2'.
+[2026.04.05-23.11.42:112][634]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.05-23.11.42:173][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.11.42:174][634]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.11.42:179][634]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.11.42
+[2026.04.05-23.11.42:179][634]LogWorld: Bringing up level for play took: 0.005732
+[2026.04.05-23.11.42:182][634]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.04.05-23.11.42:191][634]PIE: Server logged in
+[2026.04.05-23.11.42:194][634]PIE: Play in editor total start time 0,175 seconds.
+[2026.04.05-23.11.42:258][635]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.11.54:354][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.11.54:354][358]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.11.54:354][358]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.11.54:354][358]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.11.54:366][358]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.11.54:366][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.11.54:368][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.11.54:374][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.11.54:402][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.05-23.11.54:402][358]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.05-23.11.54:402][358]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.04.05-23.11.54:404][358]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.04.05-23.11.54:413][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.05-23.11.54:454][359]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.04.05-23.12.19:813][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.05-23.12.20:214][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.12.20:291][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.12.20:291][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.12.20:306][856]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.12.20:308][856]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2DE90A75514201BA11F425128EB9521AA9.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.12.20:319][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.156 ms (total: 6.48 sec)
+[2026.04.05-23.12.20:397][856]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.12.20:397][856]LogContentValidation: Enabled validators:
+[2026.04.05-23.12.20:397][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.12.20:397][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.12.20:397][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.12.20:397][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.12.20:397][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.12.20:397][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.12.20:397][856]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.12.21:434][915]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.12.21:446][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.12.21:446][915]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.12.21:457][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011212s)
+[2026.04.05-23.12.21:457][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.011248s)
+[2026.04.05-23.12.21:482][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.05-23.12.21:486][915]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.12.21:487][915]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2026.04.05-23.12.21:489][915]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.12.21:489][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.12.21:489][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.12.21:489][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.12.21:489][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.12.21:489][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.12.21:490][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.12.21:548][915]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.12.21:548][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.12.21:548][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.12.21:548][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.12.21:548][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.04.05-23.12.21:548][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.04.05-23.12.21:549][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.04.05-23.12.21:549][915]LogInit: FAudioDevice initialized with ID 37.
+[2026.04.05-23.12.21:549][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.04.05-23.12.21:549][915]LogAudio: Display: Audio Device (ID: 37) registered with world 'Level_2'.
+[2026.04.05-23.12.21:549][915]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.04.05-23.12.21:605][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.12.21:605][915]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.12.21:611][915]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.12.21
+[2026.04.05-23.12.21:612][915]LogWorld: Bringing up level for play took: 0.005840
+[2026.04.05-23.12.21:614][915]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.04.05-23.12.21:622][915]PIE: Server logged in
+[2026.04.05-23.12.21:626][915]PIE: Play in editor total start time 0,18 seconds.
+[2026.04.05-23.12.21:689][916]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.12.23:238][  8]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.25:572][148]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.26:572][208]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.27:755][279]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.28:144][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.12.28:144][300]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.12.28:144][300]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.12.28:144][300]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.12.28:154][300]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.12.28:154][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.12.28:156][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.12.28:162][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.12.28:188][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.05-23.12.28:188][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.04.05-23.12.28:188][300]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.04.05-23.12.28:191][300]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.04.05-23.12.28:204][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.05-23.12.28:245][301]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.04.05-23.12.35:044][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.05-23.12.35:589][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.12.35:668][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.12.35:668][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.12.35:684][724]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.12.35:684][724]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2D89D828DA42F27B7A2FE49B89B30BCC0E.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.12.35:694][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.328 ms (total: 6.58 sec)
+[2026.04.05-23.12.35:775][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.12.35:777][724]LogContentValidation: Enabled validators:
+[2026.04.05-23.12.35:777][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.12.35:777][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.12.35:777][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.12.35:777][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.12.35:777][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.12.35:777][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.12.35:777][724]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.12.37:079][802]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.12.37:089][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.12.37:089][802]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.12.37:101][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011289s)
+[2026.04.05-23.12.37:101][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.011329s)
+[2026.04.05-23.12.37:127][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.05-23.12.37:131][802]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.12.37:133][802]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2026.04.05-23.12.37:133][802]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.04.05-23.12.37:133][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.12.37:134][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.12.37:134][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.12.37:134][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.12.37:134][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.12.37:134][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.12.37:134][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.12.37:134][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.12.37:134][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.12.37:134][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.12.37:134][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.12.37:136][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.12.37:187][802]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.12.37:188][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.12.37:188][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.12.37:188][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.12.37:188][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.04.05-23.12.37:188][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.04.05-23.12.37:189][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.04.05-23.12.37:189][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.04.05-23.12.37:189][802]LogInit: FAudioDevice initialized with ID 38.
+[2026.04.05-23.12.37:189][802]LogAudio: Display: Audio Device (ID: 38) registered with world 'Level_2'.
+[2026.04.05-23.12.37:189][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.04.05-23.12.37:254][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.12.37:254][802]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.12.37:259][802]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.12.37
+[2026.04.05-23.12.37:260][802]LogWorld: Bringing up level for play took: 0.005194
+[2026.04.05-23.12.37:262][802]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.04.05-23.12.37:271][802]PIE: Server logged in
+[2026.04.05-23.12.37:275][802]PIE: Play in editor total start time 0,185 seconds.
+[2026.04.05-23.12.37:338][803]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.12.38:269][858]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:286][859]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:302][860]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:318][861]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:335][862]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:352][863]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:368][864]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:386][865]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:402][866]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:418][867]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:436][868]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:452][869]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:468][870]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:486][871]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:502][872]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:519][873]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:536][874]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:552][875]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:568][876]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:584][877]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:602][878]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:618][879]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:635][880]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:652][881]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:668][882]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:686][883]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:702][884]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:719][885]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:736][886]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:752][887]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:769][888]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:786][889]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:802][890]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:819][891]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:836][892]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:852][893]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:869][894]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:885][895]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:902][896]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:919][897]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:935][898]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:952][899]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:969][900]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.38:986][901]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:002][902]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:019][903]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:036][904]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:052][905]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:069][906]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:086][907]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:102][908]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:119][909]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:136][910]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:152][911]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:169][912]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:185][913]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:202][914]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:218][915]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:235][916]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:252][917]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:268][918]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:285][919]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:302][920]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:319][921]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:336][922]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:352][923]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:369][924]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:385][925]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:402][926]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:419][927]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:436][928]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:452][929]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:469][930]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:485][931]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:502][932]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:519][933]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:535][934]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:552][935]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:569][936]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:585][937]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:601][938]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:618][939]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:635][940]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:652][941]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:669][942]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:686][943]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:702][944]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:719][945]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:735][946]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:752][947]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:769][948]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:785][949]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:802][950]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:819][951]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:836][952]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:852][953]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:868][954]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:884][955]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:902][956]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:919][957]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:936][958]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.39:952][959]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.40:851][ 13]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:869][ 14]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:885][ 15]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:902][ 16]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:918][ 17]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:936][ 18]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:952][ 19]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:969][ 20]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.40:985][ 21]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:002][ 22]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:019][ 23]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:036][ 24]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:052][ 25]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:069][ 26]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:086][ 27]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:102][ 28]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:118][ 29]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:135][ 30]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:152][ 31]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:168][ 32]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:185][ 33]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:202][ 34]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:219][ 35]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:236][ 36]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:252][ 37]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:269][ 38]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:286][ 39]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:302][ 40]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:319][ 41]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:335][ 42]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:352][ 43]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:368][ 44]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:384][ 45]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:403][ 46]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:419][ 47]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:436][ 48]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:452][ 49]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:468][ 50]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:486][ 51]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:502][ 52]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:519][ 53]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:536][ 54]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:552][ 55]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:568][ 56]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:585][ 57]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:602][ 58]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:620][ 59]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:635][ 60]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:652][ 61]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:669][ 62]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:686][ 63]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:701][ 64]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:718][ 65]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:736][ 66]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:752][ 67]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:769][ 68]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:786][ 69]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:802][ 70]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:819][ 71]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:835][ 72]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:852][ 73]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:869][ 74]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:885][ 75]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:902][ 76]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:919][ 77]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:935][ 78]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:952][ 79]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:968][ 80]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.41:986][ 81]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:002][ 82]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:019][ 83]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:036][ 84]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:052][ 85]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:069][ 86]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:085][ 87]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:102][ 88]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:118][ 89]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:135][ 90]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:152][ 91]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:169][ 92]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:185][ 93]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:202][ 94]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:219][ 95]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:236][ 96]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:252][ 97]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:268][ 98]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:285][ 99]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:302][100]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:319][101]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:336][102]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:353][103]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:369][104]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:385][105]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:402][106]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:418][107]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:437][108]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:452][109]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:468][110]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:485][111]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:502][112]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:519][113]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:536][114]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:553][115]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:569][116]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:586][117]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:604][118]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:619][119]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:636][120]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:652][121]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:669][122]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:685][123]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:702][124]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:718][125]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:736][126]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:752][127]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:769][128]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:786][129]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:802][130]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:819][131]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:836][132]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:853][133]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:869][134]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:886][135]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:902][136]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:919][137]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:935][138]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:952][139]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:969][140]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.42:986][141]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.43:002][142]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.43:018][143]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.43:035][144]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.43:052][145]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.43:069][146]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.43:764][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.12.43:764][185]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.12.43:764][185]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.12.43:764][185]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.12.43:777][185]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.12.43:779][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.12.43:779][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.12.43:785][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.12.43:809][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.05-23.12.43:809][185]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.04.05-23.12.43:809][185]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.04.05-23.12.43:812][185]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.04.05-23.12.43:826][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.05-23.12.43:867][186]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.04.05-23.12.47:191][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.05-23.12.47:725][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.12.47:798][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.12.47:798][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.12.47:814][406]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.12.47:814][406]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2DEF5F9DBE4EF9C729AFEE479EE16748FA.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.12.47:828][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.076 ms (total: 6.68 sec)
+[2026.04.05-23.12.47:902][406]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.12.47:902][406]LogContentValidation: Enabled validators:
+[2026.04.05-23.12.47:902][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.12.47:902][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.12.47:902][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.12.47:902][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.12.47:902][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.12.47:902][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.12.47:902][406]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.12.48:742][456]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.12.48:752][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.12.48:752][456]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.12.48:764][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011160s)
+[2026.04.05-23.12.48:764][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.011200s)
+[2026.04.05-23.12.48:791][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.05-23.12.48:794][456]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.12.48:796][456]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2026.04.05-23.12.48:796][456]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.12.48:796][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.12.48:796][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.12.48:796][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.12.48:796][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.12.48:796][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.12.48:798][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.12.48:846][456]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.12.48:847][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.12.48:847][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.12.48:847][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.12.48:847][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.04.05-23.12.48:847][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2026.04.05-23.12.48:849][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.04.05-23.12.48:849][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.04.05-23.12.48:849][456]LogInit: FAudioDevice initialized with ID 39.
+[2026.04.05-23.12.48:849][456]LogAudio: Display: Audio Device (ID: 39) registered with world 'Level_2'.
+[2026.04.05-23.12.48:849][456]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.04.05-23.12.48:907][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.12.48:907][456]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.12.48:913][456]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.12.48
+[2026.04.05-23.12.48:914][456]LogWorld: Bringing up level for play took: 0.005435
+[2026.04.05-23.12.48:916][456]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.04.05-23.12.48:924][456]PIE: Server logged in
+[2026.04.05-23.12.48:927][456]PIE: Play in editor total start time 0,175 seconds.
+[2026.04.05-23.12.48:991][457]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.12.50:071][521]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:087][522]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:104][523]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:121][524]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:137][525]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:154][526]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:171][527]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:187][528]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:204][529]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:219][530]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:237][531]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:254][532]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:269][533]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:287][534]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:304][535]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:321][536]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:337][537]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:354][538]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:371][539]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:387][540]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:404][541]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:420][542]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:438][543]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:454][544]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:471][545]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:487][546]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:504][547]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:520][548]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:537][549]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:554][550]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:571][551]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:588][552]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:604][553]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:621][554]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:638][555]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:653][556]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:670][557]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:688][558]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:703][559]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:719][560]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:737][561]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:753][562]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:771][563]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:787][564]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:804][565]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:820][566]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:838][567]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:854][568]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:870][569]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:888][570]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:904][571]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:921][572]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:938][573]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:954][574]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:971][575]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.50:986][576]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:004][577]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:019][578]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:038][579]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:053][580]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:071][581]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:087][582]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:103][583]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:121][584]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:137][585]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:154][586]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:170][587]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:187][588]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:203][589]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:220][590]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:238][591]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:253][592]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:271][593]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:288][594]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:303][595]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:321][596]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:338][597]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:353][598]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:370][599]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:387][600]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:404][601]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:421][602]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:438][603]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:453][604]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.12.51:471][605]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.12.51:854][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.12.51:854][626]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.12.51:854][626]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.12.51:854][626]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.12.51:866][626]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.12.51:868][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.12.51:869][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.12.51:874][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.12.51:901][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.05-23.12.51:901][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.04.05-23.12.51:901][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.04.05-23.12.51:902][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.04.05-23.12.51:918][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.05-23.12.51:958][627]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.04.05-23.12.59:700][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.05-23.12.59:988][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.13.00:068][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.13.00:068][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.13.00:084][ 89]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.13.00:085][ 89]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2D2204F0094C4D2C55F83D54B128DFA16C.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.13.00:097][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.157 ms (total: 6.79 sec)
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: Enabled validators:
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.13.00:175][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.13.00:175][ 89]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.13.01:112][145]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.13.01:122][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.13.01:122][145]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.13.01:134][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011100s)
+[2026.04.05-23.13.01:134][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.011141s)
+[2026.04.05-23.13.01:161][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.05-23.13.01:165][145]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.13.01:166][145]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2026.04.05-23.13.01:167][145]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.13.01:167][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.13.01:167][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.13.01:167][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.13.01:167][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.13.01:167][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.13.01:169][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.13.01:232][145]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.13.01:232][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.13.01:232][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.13.01:232][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.13.01:233][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.04.05-23.13.01:233][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2026.04.05-23.13.01:236][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.04.05-23.13.01:236][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.04.05-23.13.01:236][145]LogInit: FAudioDevice initialized with ID 40.
+[2026.04.05-23.13.01:236][145]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_2'.
+[2026.04.05-23.13.01:236][145]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.04.05-23.13.01:292][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.13.01:293][145]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.13.01:299][145]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.13.01
+[2026.04.05-23.13.01:299][145]LogWorld: Bringing up level for play took: 0.005842
+[2026.04.05-23.13.01:302][145]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.04.05-23.13.01:310][145]PIE: Server logged in
+[2026.04.05-23.13.01:314][145]PIE: Play in editor total start time 0,192 seconds.
+[2026.04.05-23.13.01:377][146]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.13.02:089][188]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.13.03:555][276]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.13.04:412][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.13.04:412][325]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.13.04:412][325]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.13.04:414][325]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.13.04:422][325]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.13.04:424][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.13.04:424][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.13.04:430][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.13.04:457][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.05-23.13.04:457][325]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.04.05-23.13.04:457][325]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.04.05-23.13.04:460][325]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.04.05-23.13.04:475][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.05-23.13.04:514][326]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.04.05-23.13.10:722][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.13.10:799][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_PlayerController2D] ([2] browsable assets)...
+[2026.04.05-23.13.10:799][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_PlayerController2D]
+[2026.04.05-23.13.10:815][696]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_PlayerController2D
+[2026.04.05-23.13.10:815][696]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_PlayerController2DCA0B0EE14001465F0A82E0B122C60E2F.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_PlayerController2D.uasset'
+[2026.04.05-23.13.10:828][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.809 ms (total: 6.90 sec)
+[2026.04.05-23.13.10:908][696]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.13.10:908][696]LogContentValidation: Enabled validators:
+[2026.04.05-23.13.10:908][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.13.10:908][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.13.10:908][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.13.10:908][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.13.10:908][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.13.10:908][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.13.10:908][696]AssetCheck: /Game/Blueprint/Character/BP_PlayerController2D Validating asset
+[2026.04.05-23.14.14:772][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.04.05-23.14.15:224][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.14.15:306][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.04.05-23.14.15:306][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.04.05-23.14.15:347][465]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.04.05-23.14.15:347][465]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_1F75349D94E6BA5510366EA91F0B285AB.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.04.05-23.14.15:357][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.411 ms (total: 7.03 sec)
+[2026.04.05-23.14.15:431][465]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.14.15:431][465]LogContentValidation: Enabled validators:
+[2026.04.05-23.14.15:431][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.14.15:431][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.14.15:431][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.14.15:431][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.14.15:431][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.14.15:431][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.14.15:432][465]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.04.05-23.14.30:579][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28241.599609
+[2026.04.05-23.14.30:756][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.05-23.14.30:756][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28241.757812, Update Interval: 347.781006
+[2026.04.05-23.14.42:231][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.05-23.14.42:796][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.14.42:874][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.04.05-23.14.42:874][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.04.05-23.14.42:912][ 24]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.04.05-23.14.42:913][ 24]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_10370EA7B442965AD5443759F9362E309.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.04.05-23.14.42:924][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.355 ms (total: 7.16 sec)
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: Enabled validators:
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.14.42:999][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.14.42:999][ 24]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.04.05-23.14.53:550][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.14.53:631][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.04.05-23.14.53:632][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.04.05-23.14.53:669][654]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.04.05-23.14.53:669][654]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_17A6AD767455F91A7E7E2B486C5D6FACA.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.04.05-23.14.53:684][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.043 ms (total: 7.29 sec)
+[2026.04.05-23.14.53:759][654]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.14.53:759][654]LogContentValidation: Enabled validators:
+[2026.04.05-23.14.53:759][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.14.53:759][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.14.53:759][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.14.53:759][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.14.53:759][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.14.53:759][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.14.53:759][654]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.04.05-23.16.52:006][700]LogContentBrowser: Deferred new asset file creation: Walk_MC1
+[2026.04.05-23.16.52:014][700]LogContentBrowser: Creating deferred item: Walk_MC1
+[2026.04.05-23.16.52:028][701]LogContentBrowser: Renaming the item being created (Deferred Item: Walk_MC1).
+[2026.04.05-23.16.56:692][977]LogContentBrowser: Attempting asset rename: Walk_MC1 -> Run_MC
+[2026.04.05-23.16.56:693][977]LogContentBrowser: End creating deferred item Walk_MC1
+[2026.04.05-23.16.58:027][ 56]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprint/Character/New_Sprites/Run_MC.Run_MC
+[2026.04.05-23.16.58:028][ 56]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.05-23.17.04:397][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.17.04:478][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Character/New_Sprites/Run_MC] ([1] browsable assets)...
+[2026.04.05-23.17.04:481][409]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Blueprint/Character/New_Sprites/Run_MC.Run_MC]
+[2026.04.05-23.17.04:481][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/New_Sprites/Run_MC]
+[2026.04.05-23.17.04:483][409]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/New_Sprites/Run_MC
+[2026.04.05-23.17.04:483][409]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/Run_MC6B4B381E4185CF65C7957E857698791B.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/New_Sprites/Run_MC.uasset'
+[2026.04.05-23.17.04:495][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.007 ms (total: 7.39 sec)
+[2026.04.05-23.17.04:572][409]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.17.04:572][409]LogContentValidation: Enabled validators:
+[2026.04.05-23.17.04:572][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.17.04:572][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.17.04:572][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.17.04:572][409]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.17.04:572][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.17.04:572][409]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.17.04:572][409]AssetCheck: /Game/Blueprint/Character/New_Sprites/Run_MC Validating asset
+[2026.04.05-23.17.04:591][409]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.05-23.17.17:052][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.05-23.17.17:347][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.17.17:432][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Character/BP_Player2d_1] ([2] browsable assets)...
+[2026.04.05-23.17.17:432][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Character/BP_Player2d_1]
+[2026.04.05-23.17.17:470][142]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Player2d_1
+[2026.04.05-23.17.17:471][142]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/BP_Player2d_14AA9CB7B47C85C6F96C768AED51E7B03.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Character/BP_Player2d_1.uasset'
+[2026.04.05-23.17.17:483][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.192 ms (total: 7.53 sec)
+[2026.04.05-23.17.17:562][142]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.17.17:562][142]LogContentValidation: Enabled validators:
+[2026.04.05-23.17.17:562][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.17.17:562][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.17.17:562][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.17.17:562][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.17.17:562][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.17.17:562][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.17.17:562][142]AssetCheck: /Game/Blueprint/Character/BP_Player2d_1 Validating asset
+[2026.04.05-23.17.18:291][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.05-23.17.18:427][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.05-23.17.18:457][171]LogSavePackage: Moving output files for package: /Game/Levels/Level_2/Level_2
+[2026.04.05-23.17.18:458][171]LogSavePackage: Moving '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Saved/Level_2257BB55444D3799A736B1F89D48F57EA.tmp' to '../../../../../../Users/maxze/Documents/GitHub/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Levels/Level_2/Level_2.umap'
+[2026.04.05-23.17.18:475][171]LogFileHelpers: Saving map 'Level_2' took 0.115
+[2026.04.05-23.17.18:490][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.487 ms (total: 7.73 sec)
+[2026.04.05-23.17.18:565][171]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.05-23.17.18:565][171]LogContentValidation: Enabled validators:
+[2026.04.05-23.17.18:565][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.05-23.17.18:565][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.05-23.17.18:565][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.05-23.17.18:565][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.05-23.17.18:565][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.05-23.17.18:565][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.05-23.17.18:565][171]AssetCheck: /Game/Levels/Level_2/Level_2 Validating asset
+[2026.04.05-23.17.19:344][217]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.17.19:354][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.17.19:354][217]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.17.19:365][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010755s)
+[2026.04.05-23.17.19:365][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.010792s)
+[2026.04.05-23.17.19:389][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.05-23.17.19:391][217]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.17.19:394][217]LogPlayLevel: PIE: World Init took: (0.001791s)
+[2026.04.05-23.17.19:394][217]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.17.19:394][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.17.19:394][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.17.19:394][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.17.19:394][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.17.19:394][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.17.19:396][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.17.19:445][217]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.17.19:445][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.17.19:445][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.17.19:445][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.17.19:447][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.04.05-23.17.19:447][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.04.05-23.17.19:448][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.04.05-23.17.19:448][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.04.05-23.17.19:448][217]LogInit: FAudioDevice initialized with ID 41.
+[2026.04.05-23.17.19:448][217]LogAudio: Display: Audio Device (ID: 41) registered with world 'Level_2'.
+[2026.04.05-23.17.19:448][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.04.05-23.17.19:508][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.17.19:508][217]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.17.19:513][217]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.17.19
+[2026.04.05-23.17.19:513][217]LogWorld: Bringing up level for play took: 0.005593
+[2026.04.05-23.17.19:516][217]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.04.05-23.17.19:525][217]PIE: Server logged in
+[2026.04.05-23.17.19:529][217]PIE: Play in editor total start time 0,175 seconds.
+[2026.04.05-23.17.19:594][218]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.17.21:402][325]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.17.22:152][370]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.17.22:519][392]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.17.22:935][417]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.17.23:504][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.17.23:504][449]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.17.23:504][449]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.17.23:504][449]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.17.23:514][449]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.17.23:516][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.17.23:517][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.17.23:523][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.17.23:545][449]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.04.05-23.17.23:545][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.04.05-23.17.23:548][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.04.05-23.17.23:557][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.05-23.17.23:598][450]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.04.05-23.21.11:655][131]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.05-23.21.11:666][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.05-23.21.11:667][131]LogPlayLevel: Creating play world package: /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.21.11:679][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011958s)
+[2026.04.05-23.21.11:679][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2/Level_2.Level_2 to /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 (0.012003s)
+[2026.04.05-23.21.11:708][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.04.05-23.21.11:711][131]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2
+[2026.04.05-23.21.11:712][131]LogPlayLevel: PIE: World Init took: (0.001664s)
+[2026.04.05-23.21.11:713][131]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.05-23.21.11:713][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.05-23.21.11:713][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.05-23.21.11:713][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.05-23.21.11:713][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.05-23.21.11:713][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.05-23.21.11:715][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.05-23.21.11:767][131]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2026.04.05-23.21.11:767][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.05-23.21.11:767][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.05-23.21.11:767][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.05-23.21.11:769][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.04.05-23.21.11:769][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.04.05-23.21.11:771][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.04.05-23.21.11:772][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.04.05-23.21.11:772][131]LogInit: FAudioDevice initialized with ID 42.
+[2026.04.05-23.21.11:772][131]LogAudio: Display: Audio Device (ID: 42) registered with world 'Level_2'.
+[2026.04.05-23.21.11:772][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.04.05-23.21.11:832][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.21.11:832][131]LogLoad: Game class is 'Gamemode2D_C'
+[2026.04.05-23.21.11:837][131]LogWorld: Bringing World /Game/Levels/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2026.04.06-01.21.11
+[2026.04.05-23.21.11:839][131]LogWorld: Bringing up level for play took: 0.005788
+[2026.04.05-23.21.11:840][131]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.04.05-23.21.11:850][131]PIE: Server logged in
+[2026.04.05-23.21.11:854][131]PIE: Play in editor total start time 0,187 seconds.
+[2026.04.05-23.21.11:927][132]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.05-23.21.13:427][221]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.21.14:377][278]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.21.15:144][324]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.21.15:643][354]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.21.16:436][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28648.000000
+[2026.04.05-23.21.16:602][411]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.05-23.21.16:602][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28648.148438, Update Interval: 351.269257
+[2026.04.05-23.21.17:194][447]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.21.17:761][481]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.21.19:044][558]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.21.20:860][667]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.21.22:244][750]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] running
+[2026.04.05-23.21.23:562][829]LogBlueprintUserMessages: [BP_PlayerController2D_C_0] walking
+[2026.04.05-23.21.24:313][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.05-23.21.24:313][872]LogWorld: BeginTearingDown for /Game/Levels/Level_2/UEDPIE_0_Level_2
+[2026.04.05-23.21.24:313][872]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.21.24:314][872]LogSlate: Window 'Practice2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.05-23.21.24:324][872]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.21.24:325][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.21.24:325][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.05-23.21.24:333][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.21.24:360][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.04.05-23.21.24:361][872]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.04.05-23.21.24:362][872]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.04.05-23.21.24:371][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.05-23.21.24:413][873]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.04.05-23.25.12:402][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.05-23.25.12:487][549]LogStall: Shutdown...
+[2026.04.05-23.25.12:487][549]LogStall: Shutdown complete.
+[2026.04.05-23.25.12:533][549]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:533][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.12:635][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.05-23.25.12:635][549]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:635][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.12:720][549]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:720][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.12:773][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.05-23.25.12:773][549]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:773][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.12:836][549]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:836][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.12:900][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.05-23.25.12:901][549]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:901][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.12:958][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.05-23.25.12:958][549]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.12:958][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.13:002][549]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.13:002][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.13:089][549]LogSlate: Window 'Practice2D - Unreal Editor' being destroyed
+[2026.04.05-23.25.13:402][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.05-23.25.13:445][549]Cmd: QUIT_EDITOR
+[2026.04.05-23.25.13:445][550]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.05-23.25.13:453][550]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.05-23.25.13:455][550]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.05-23.25.13:455][550]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.05-23.25.13:457][550]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.13:457][550]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.05-23.25.13:457][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.13:475][550]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.05-23.25.13:475][550]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.05-23.25.13:475][550]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.05-23.25.13:482][550]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.05-23.25.13:482][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.05-23.25.13:485][550]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.05-23.25.13:485][550]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.05-23.25.13:489][550]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.05-23.25.14:103][550]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.05-23.25.14:103][550]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.05-23.25.14:103][550]LogAudio: Display: Audio Device unregistered from world 'Level_2'.
+[2026.04.05-23.25.14:103][550]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.05-23.25.14:103][550]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.05-23.25.14:106][550]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.05-23.25.14:112][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.05-23.25.14:112][550]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.05-23.25.14:113][550]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2026.04.05-23.25.14:116][550]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.05-23.25.14:117][550]LogExit: Preparing to exit.
+[2026.04.05-23.25.14:159][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:163][550]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.05-23.25.14:681][550]LogEditorDataStorage: Deinitializing
+[2026.04.05-23.25.14:796][550]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.05-23.25.14:812][550]LogExit: Editor shut down
+[2026.04.05-23.25.14:818][550]LogExit: Transaction tracking system shut down
+[2026.04.05-23.25.14:962][550]LogExit: Object subsystem successfully closed.
+[2026.04.05-23.25.15:033][550]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.05-23.25.15:167][550]LogMemoryProfiler: Shutdown
+[2026.04.05-23.25.15:168][550]LogNetworkingProfiler: Shutdown
+[2026.04.05-23.25.15:168][550]LoadingProfiler: Shutdown
+[2026.04.05-23.25.15:168][550]LogTimingProfiler: Shutdown
+[2026.04.05-23.25.15:168][550]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.05-23.25.15:168][550]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.05-23.25.15:461][550]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.05-23.25.15:500][550]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.05-23.25.15:500][550]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B924FF5CA-4CDE-A200-7A45-D5A2EE819753%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2a4d331748cf46b6df416cb361aeb48c%7Cffb04caa41f64a50b96c0e05c4683d12%7Cc51b392b-7cd9-42eb-b157-e85921af75d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.05-23.25.16:073][550]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.05-23.25.16:073][550]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.05-23.25.16:073][550]RenderDocPlugin: plugin has been unloaded.
+[2026.04.05-23.25.16:082][550]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.05-23.25.16:082][550]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.05-23.25.16:082][550]LogPakFile: Destroying PakPlatformFile
+[2026.04.05-23.25.16:448][550]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.05-23.25.16:489][550]LogExit: Exiting.
+[2026.04.05-23.25.16:510][550]Log file closed, 04/06/26 01:25:16
