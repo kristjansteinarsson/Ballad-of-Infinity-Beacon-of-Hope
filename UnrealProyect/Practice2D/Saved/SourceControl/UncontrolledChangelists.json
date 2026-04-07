@@ -33,7 +33,6 @@
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Objects/BP_Key.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/UI/BossDead.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/UI/BossHealth.uasset",
-				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main1.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/Key/Key.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/UI/HealthBoss.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/UI/HealthBossFull.uasset",
@@ -44,6 +43,9 @@
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Level_2_Rooms/Room_2.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/Rocky_Road-export-export.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/Rocky_Road-export-export_Mat.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Shop.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Sprites/ShopWidget.uasset",
+				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Widgets/W_Main1.uasset",
 				"C:/Users/Lenovo/Documents/DarkSouls/Github/Ballad-of-Infinity-Beacon-of-Hope/UnrealProyect/Practice2D/Content/Blueprint/Transitions/BP_TransitionSun.uasset"
 			]
 		}
